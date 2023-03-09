@@ -1,0 +1,51 @@
+{
+    "CONSOLE": {
+        "options": [
+            "PSP","PS2","PS3","PS4","pc","XONE","XBOX","WII","X360","3DS","WIIU","GC","XB"
+        ],
+        "icon": "🕹️",
+        "dropDownPlaceholder": "SELECT CONSOLE"
+    },
+    "YEAR": {
+        "options": [
+            1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2015,2018,2019,2020
+        ],
+        "icon": "⏰",
+        "dropDownPlaceholder": "SELECT YEAR"
+    },
+    "CATEGORY": {
+        "options": [
+            "action","sports","shooter","role-playing","racing","puzzle","fighting","simulation","misc","platform","strategy"
+        ],
+        "icon": "🎨",
+        "dropDownPlaceholder": "SELECT CATEGORY"
+    },
+    "PUBLISHER": {
+        "options": [
+            "Electronic Arts","Activision","Ubisoft","Nintendo","Konami Digital Entertainment","Sony Computer Entertainment","Tecmo Koei","Warner Bros. Interactive Entertainment","Disney Interactive Studios","Atari"
+        ],
+        "icon": "🎬",
+        "dropDownPlaceholder": "SELECT PUBLISHER"
+    },
+    "RATING": {
+        "options": [
+            "T","E","M","E10+","AO","RP"
+        ],
+        "icon": "🔢",
+        "dropDownPlaceholder": "SELECT RATING"
+    },
+    "CRITICS_POINTS": {
+        "options": [
+            1,2,3,4,5,7,9,10,15
+        ],
+        "icon": "🔢",
+        "dropDownPlaceholder": "SELECT CRITIC POINTS"
+    },
+    "USER_POINTS": {
+        "options": [
+            0.1,0.5,1.0,1.5
+        ],
+        "icon": "🔏",
+        "dropDownPlaceholder": "SELECT USER POINTS"
+    }
+}
