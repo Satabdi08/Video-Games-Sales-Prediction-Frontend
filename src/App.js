@@ -19,7 +19,7 @@ function App() {
       setPredictionLoading(true)
       setModelPrediction(null)
       setRequestFailed(null)
-      axios.post("http://satabdisobhanpradhan.pythonanywhere.com/get_prediction", selectedObject)
+      axios.post('http://satabdisobhanpradhan.pythonanywhere.com/get_prediction', selectedObject)
       .then(function (response) {
         setPredictionLoading(false)
         setModelPrediction(response.data.result)
